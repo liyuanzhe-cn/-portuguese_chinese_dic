@@ -1,0 +1,193 @@
+00: "desejar"
+01: "bater"
+02: "mandar"
+03: "procurar"
+04: "sumir"
+05: "lavar"
+06: "chorar"
+07: "descer"
+08: "contar"
+09: "ganhar"
+10: "pegar"
+11: "entrar"
+12: "atender"
+13: "possuir"
+14: "requerer"
+15: "propor"
+16: "morrer"
+17: "nadar"
+18: "dispor"
+19: "tomar"
+20: "mentir"
+21: "participar"
+22: "prover"
+23: "sonhar"
+24: "caminhar"
+25: "continuar"
+26: "ajudar"
+27: "desistir"
+28: "avisar"
+29: "acontecer"
+30: "vestir"
+31: "fechar"
+32: "doer"
+33: "divertir"
+34: "acabar"
+35: "existir"
+36: "mudar"
+37: "chover"
+38: "pagar"
+39: "conter"
+40: "preferir"
+41: "descobrir"
+42: "colorir"
+43: "entreter"
+44: "conjugar"
+45: "decidir"
+46: "escolher"
+47: "ferir"
+48: "realizar"
+49: "buscar"
+50: "sentar"
+51: "construir"
+52: "vencer"
+53: "agradecer"
+54: "prever"
+55: "convidar"
+56: "permitir"
+57: "encher"
+58: "adquirir"
+59: "servir"
+60: "parecer"
+61: "ligar"
+62: "sofrer"
+63: "falir"
+64: "apresentar"
+65: "julgar"
+66: "beijar"
+67: "casar"
+68: "informar"
+69: "tornar"
+70: "excluir"
+71: "crescer"
+72: "precaver"
+73: "responder"
+74: "aproveitar"
+75: "respeitar"
+76: "levantar"
+77: "ensinar"
+78: "repor"
+79: "tirar"
+80: "rever"
+81: "entregar"
+82: "odiar"
+83: "gritar"
+84: "enviar"
+85: "deter"
+86: "mostrar"
+87: "adequar"
+88: "zoar"
+89: "aderir"
+90: "permanecer"
+91: "tentar"
+92: "polir"
+93: "discutir"
+94: "aparecer"
+95: "repetir"
+96: "surgir"
+97: "perguntar"
+98: "aceitar"
+
+
+
+"希望":"desejar",
+"击中":"bater",
+"发送":"enviar",
+"搜索":"procurar",
+"消失":"sumir",
+"洗":"lavar",
+"哭":"chorar",
+"下来":"descer",
+"告诉":"contar",
+"赢":"vencer",
+"抓住":"pegar",
+"进来":"entrar",
+"回答":"responder",
+"拥有":"possuir",
+"申请":"requerer",
+"提议":"propor",
+"死":"morrer",
+"游泳":"nadar",
+"处置":"dispor",
+"拿":"tomar",
+"撒谎":"mentir",
+"参与":"participar",
+"提供":"prover",
+"梦想":"sonhar",
+"走路":"caminhar",
+"继续":"continuar",
+"帮助":"ajudar",
+"放弃":"desistir",
+"警告":"avisar",
+"发生":"acontecer",
+"打扮":"vestir",
+"关闭":"fechar",
+"受伤":"ferir",
+"玩得开心":"divertir",
+"完成":"realizar",
+"存在":"existir",
+"改变":"mudar",
+"下雨":"chover",
+"付钱":"pagar",
+"包含":"conter",
+"喜欢":"preferir",
+"找出来":"descobrir",
+"着色":"colorir",
+"娱乐":"entreter",
+"共轭":"conjugar",
+"决定":"decidir",
+"选择":"escolher",
+"取":"buscar",
+"坐下":"sentar",
+"建立":"construir",
+"谢谢你":"agradecer",
+"预测":"prever",
+"邀请":"convidar",
+"允许":"permitir",
+"填满":"encher",
+"获得":"adquirir",
+"发球":"servir",
+"似乎":"parecer",
+"打电话":"ligar",
+"受苦":"sofrer",
+"失败":"falir",
+"提交":"apresentar",
+"判断":"julgar",
+"亲吻":"beijar",
+"结婚":"casar",
+"通知":"informar",
+"渲染":"tornar",
+"删除":"excluir",
+"长大":"crescer",
+"小心":"precaver",
+"享受":"aproveitar",
+"尊重":"respeitar",
+"起床":"levantar",
+"教":"ensinar",
+"重置":"repor",
+"起飞":"tirar",
+"审查":"rever",
+"交付":"entregar",
+"讨厌":"odiar",
+"尖叫":"gritar",
+"停止":"deter",
+"显示":"mostrar",
+"西装":"adequar",
+"笑话":"zoar",
+"加入":"aderir",
+"留下来":"permanecer",
+"试试":"tentar",
+"擦亮":"polir",
+"讨论":"discutir",
+"出现":"surgir",
+"重复":"repetir",

@@ -1,0 +1,196 @@
+00: "honrar"
+01: "deitar"
+02: "obedecer"
+03: "orientar"
+04: "conquistar"
+05: "emitir"
+06: "lidar"
+07: "faltar"
+08: "sugerir"
+09: "concluir"
+10: "desenvolver"
+11: "contribuir"
+12: "enganar"
+13: "reconhecer"
+14: "invadir"
+15: "engolir"
+16: "opor"
+17: "apoiar"
+18: "puxar"
+19: "reclamar"
+20: "juntar"
+21: "semear"
+22: "exigir"
+23: "aproximar"
+24: "prestar"
+25: "utilizar"
+26: "roer"
+27: "bloquear"
+28: "descansar"
+29: "magoar"
+30: "prometer"
+31: "jantar"
+32: "despir"
+33: "escovar"
+34: "surpreender"
+35: "presentear"
+36: "desenhar"
+37: "cometer"
+38: "refazer"
+39: "competir"
+40: "reger"
+41: "assumir"
+42: "transformar"
+43: "proporcionar"
+44: "afastar"
+45: "tratar"
+46: "perseguir"
+47: "aguar"
+48: "cheirar"
+49: "banhar"
+50: "importar"
+51: "alegrar"
+52: "eleger"
+53: "animar"
+54: "evitar"
+55: "telefonar"
+56: "devolver"
+57: "morder"
+58: "mover"
+59: "substituir"
+60: "trocar"
+61: "pretender"
+62: "concordar"
+63: "mediar"
+64: "agredir"
+65: "praticar"
+66: "abandonar"
+67: "escanear"
+68: "aplicar"
+69: "emprestar"
+70: "causar"
+71: "trair"
+72: "distinguir"
+73: "maquiar"
+74: "confiar"
+75: "optar"
+76: "recear"
+77: "gastar"
+78: "demorar"
+79: "saborear"
+80: "contradizer"
+81: "impedir"
+82: "consumir"
+83: "vomitar"
+84: "comunicar"
+85: "gemer"
+86: "torcer"
+87: "proibir"
+88: "reagir"
+89: "parabenizar"
+90: "provar"
+91: "queimar"
+92: "definir"
+93: "confirmar"
+94: "constituir"
+95: "representar"
+96: "atravessar"
+97: "extrair"
+
+
+"荣誉":"honrar",
+"躺下":"deitar",
+"服从":"obedecer",
+"东方":"orientar",
+"征服":"conquistar",
+"问题":"emitir",
+"交易":"lidar",
+"失踪":"faltar",
+"建议":"sugerir",
+"完成":"concluir",
+"发展":"desenvolver",
+"贡献":"contribuir",
+"傻瓜":"enganar",
+"认出":"reconhecer",
+"闯入":"invadir",
+"吞下":"engolir",
+"反对":"opor",
+"支持":"apoiar",
+"拉":"puxar",
+"抱怨":"reclamar",
+"加入":"juntar",
+"播种":"semear",
+"需求":"exigir",
+"接近":"aproximar",
+"渲染":"prestar",
+"使用":"utilizar",
+"啃":"roer",
+"阻止":"impedir",
+"休息":"descansar",
+"伤害":"magoar",
+"承诺":"cometer",
+"晚餐":"jantar",
+"脱衣":"despir",
+"刷":"escovar",
+"惊喜":"surpreender",
+"送礼":"presentear",
+"画画":"desenhar",
+"重做":"refazer",
+"竞争":"competir",
+"规则":"reger",
+"接管":"assumir",
+"变换":"transformar",
+"提供":"proporcionar",
+"离开":"afastar",
+"对待":"tratar",
+"追逐":"perseguir",
+"水":"aguar",
+"闻":"cheirar",
+"洗澡":"banhar",
+"进口":"importar",
+"高兴":"alegrar",
+"选举":"eleger",
+"振作":"animar",
+"避免":"evitar",
+"打电":"telefonar",
+"回归":"devolver",
+"咬":"morder",
+"移动":"mover",
+"替换":"substituir",
+"交换":"trocar",
+"想要":"pretender",
+"同意":"concordar",
+"调解":"mediar",
+"攻击":"agredir",
+"练习":"praticar",
+"放弃":"abandonar",
+"扫描":"escanear",
+"申请":"aplicar",
+"借":"emprestar",
+"原因":"causar",
+"背叛":"trair",
+"区分":"distinguir",
+"化妆":"maquiar",
+"信任":"confiar",
+"选择":"optar",
+"恐惧":"recear",
+"花":"gastar",
+"花时":"demorar",
+"品味":"saborear",
+"矛盾":"contradizer",
+"消费":"consumir",
+"呕吐":"vomitar",
+"沟通":"comunicar",
+"呻吟":"gemer",
+"扭曲":"torcer",
+"禁令":"proibir",
+"反应":"reagir",
+"祝贺":"parabenizar",
+"证明":"provar",
+"燃烧":"queimar",
+"设定":"definir",
+"确认":"confirmar",
+"构成":"constituir",
+"代表":"representar",
+"交叉":"atravessar",
+"提取":"extrair"

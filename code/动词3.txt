@@ -1,0 +1,196 @@
+00: "terminar"
+01: "destruir"
+02: "perceber"
+03: "imaginar"
+04: "ceder"
+05: "compreender"
+06: "marcar"
+07: "perdoar"
+08: "ingerir"
+09: "doar"
+10: "encaminhar"
+11: "preocupar"
+12: "feder"
+13: "oferecer"
+14: "impor"
+15: "merecer"
+16: "salvar"
+17: "acreditar"
+18: "varrer"
+19: "cortar"
+20: "limpar"
+21: "criar"
+22: "matar"
+23: "pintar"
+24: "incluir"
+25: "resolver"
+26: "aguardar"
+27: "plantar"
+28: "prender"
+29: "garantir"
+30: "pentear"
+31: "reter"
+32: "compartilhar"
+33: "atrair"
+34: "iniciar"
+35: "observar"
+36: "analisar"
+37: "convir"
+38: "provir"
+39: "exercer"
+40: "visitar"
+41: "obter"
+42: "acompanhar"
+43: "cobrir"
+44: "abolir"
+45: "tocar"
+46: "suar"
+47: "escutar"
+48: "ocorrer"
+49: "refletir"
+50: "curtir"
+51: "satisfazer"
+52: "repartir"
+53: "arrumar"
+54: "resistir"
+55: "adorar"
+56: "confundir"
+57: "cuidar"
+58: "copiar"
+59: "defender"
+60: "colher"
+61: "virar"
+62: "distrair"
+63: "unir"
+64: "despedir"
+65: "esconder"
+66: "guardar"
+67: "preparar"
+68: "indicar"
+69: "insistir"
+70: "calar"
+71: "apagar"
+72: "produzir"
+73: "supor"
+74: "roubar"
+75: "reunir"
+76: "comparecer"
+77: "acender"
+78: "considerar"
+79: "quebrar"
+80: "lutar"
+81: "expressar"
+82: "ansiar"
+83: "educar"
+84: "errar"
+85: "diminuir"
+86: "explicar"
+87: "atingir"
+88: "atrasar"
+89: "cuspir"
+90: "negar"
+91: "separar"
+92: "namorar"
+93: "cozinhar"
+94: "conduzir"
+95: "retirar"
+96: "formar"
+
+
+
+"完成":"terminar",
+"毁灭":"destruir",
+"意识到":"perceber",
+"想象":"imaginar",
+"放弃":"ceder",
+"理解":"compreender",
+"标签":"marcar",
+"原谅":"perdoar",
+"摄取":"ingerir",
+"捐赠":"doar",
+"前进":"encaminhar",
+"担心":"preocupar",
+"臭":"feder",
+"提供":"oferecer",
+"强加":"impor",
+"应得":"merecer",
+"保存":"guardar",
+"相信":"acreditar",
+"扫":"varrer",
+"切":"cortar",
+"清理":"limpar",
+"创造":"criar",
+"杀死":"matar",
+"画画":"pintar",
+"包括":"incluir",
+"解决":"resolver",
+"等待":"aguardar",
+"去植物":"plantar",
+"逮捕":"prender",
+"保证":"garantir",
+"梳子":"pentear",
+"保留":"reter",
+"分享":"compartilhar",
+"吸引":"atrair",
+"开始":"iniciar",
+"观察":"observar",
+"分析":"analisar",
+"适合":"convir",
+"来":"provir",
+"运动":"exercer",
+"访问":"visitar",
+"得到":"obter",
+"跟踪":"acompanhar",
+"封面":"cobrir",
+"废除":"abolir",
+"触摸":"tocar",
+"汗水":"suar",
+"听":"escutar",
+"发生":"ocorrer",
+"反思":"refletir",
+"喜欢":"curtir",
+"满足":"satisfazer",
+"划分":"repartir",
+"整理":"arrumar",
+"抗拒":"resistir",
+"敬拜":"adorar",
+"混淆":"confundir",
+"小心":"cuidar",
+"复制":"copiar",
+"保卫":"defender",
+"勺子":"colher",
+"转身":"virar",
+"分散注意力":"distrair",
+"联合":"unir",
+"说再见":"despedir",
+"隐藏":"esconder",
+"准备":"preparar",
+"表示":"indicar",
+"坚持":"insistir",
+"闭嘴":"calar",
+"删除":"apagar",
+"生产":"produzir",
+"假设":"supor",
+"偷":"roubar",
+"聚集":"reunir",
+"参加":"comparecer",
+"点亮":"acender",
+"考虑":"considerar",
+"休息":"quebrar",
+"战斗":"lutar",
+"表达":"expressar",
+"向往":"ansiar",
+"教育":"educar",
+"犯错":"errar",
+"减少":"diminuir",
+"解释":"explicar",
+"到达":"atingir",
+"迟到":"atrasar",
+"吐":"cuspir",
+"否认":"negar",
+"分开":"separar",
+"约会":"namorar",
+"烹饪":"cozinhar",
+"开车":"conduzir",
+"退出":"retirar",
+"形式":"formar"

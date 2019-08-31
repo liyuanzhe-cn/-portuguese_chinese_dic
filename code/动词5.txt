@@ -1,0 +1,202 @@
+00: "demolir"
+01: "louvar"
+02: "lambuzar"
+03: "superar"
+04: "comemorar"
+05: "cansar"
+06: "saltar"
+07: "cobrar"
+08: "basear"
+09: "temer"
+10: "prevenir"
+11: "convencer"
+12: "segurar"
+13: "frear"
+14: "dedicar"
+15: "apanhar"
+16: "punir"
+17: "ignorar"
+18: "abster"
+19: "duvidar"
+20: "moer"
+21: "fumar"
+22: "depor"
+23: "parir"
+24: "desfazer"
+25: "advir"
+26: "atribuir"
+27: "soar"
+28: "soltar"
+29: "aplaudir"
+30: "orar"
+31: "explodir"
+32: "focar"
+33: "retornar"
+34: "arranjar"
+35: "instruir"
+36: "acostumar"
+37: "auxiliar"
+38: "adivinhar"
+39: "assinar"
+40: "agradar"
+41: "evoluir"
+42: "apreciar"
+43: "encerrar"
+44: "erguer"
+45: "interagir"
+46: "necessitar"
+47: "remediar"
+48: "completar"
+49: "iluminar"
+50: "estrear"
+51: "averiguar"
+52: "conferir"
+53: "render"
+54: "brigar"
+55: "publicar"
+56: "cagar"
+57: "melhorar"
+58: "pesquisar"
+59: "distribuir"
+60: "conviver"
+61: "carregar"
+62: "intermediar"
+63: "aquecer"
+64: "consertar"
+65: "gerar"
+66: "enjoar"
+67: "desaparecer"
+68: "obrigar"
+69: "divulgar"
+70: "dominar"
+71: "identificar"
+72: "preencher"
+73: "festejar"
+74: "falhar"
+75: "iludir"
+76: "notar"
+77: "anunciar"
+78: "secar"
+79: "meter"
+80: "alterar"
+81: "organizar"
+82: "lamber"
+83: "recolher"
+84: "adicionar"
+85: "percorrer"
+86: "desocupar"
+87: "fortalecer"
+88: "perturbar"
+89: "livrar"
+90: "fornecer"
+91: "inserir"
+92: "efetuar"
+93: "treinar"
+94: "inspirar"
+95: "combater"
+96: "latir"
+97: "montar"
+98: "pescar"
+99: "bastar"
+
+
+
+"拆除":"demolir",
+"赞美":"louvar",
+"涂抹":"lambuzar",
+"过来":"superar",
+"庆祝":"comemorar",
+"累了":"cansar",
+"跳":"saltar",
+"充电":"cobrar",
+"基地":"basear",
+"恐惧":"temer",
+"防止":"prevenir",
+"说服力":"convencer",
+"坚持":"segurar",
+"刹车":"frear",
+"奉献":"dedicar",
+"追赶":"apanhar",
+"惩罚":"punir",
+"忽略":"ignorar",
+"弃权":"abster",
+"怀疑":"duvidar",
+"磨":"moer",
+"吸烟":"fumar",
+"作证":"depor",
+"分娩":"parir",
+"撤消":"desfazer",
+"来":"advir",
+"分配":"atribuir",
+"声音":"soar",
+"掉落":"soltar",
+"鼓掌":"aplaudir",
+"祈祷":"orar",
+"爆炸":"explodir",
+"专注":"focar",
+"回归":"retornar",
+"安排":"arranjar",
+"指示":"instruir",
+"习惯了":"acostumar",
+"辅":"auxiliar",
+"猜":"adivinhar",
+"签字":"assinar",
+"请":"agradar",
+"进化":"evoluir",
+"欣赏":"apreciar",
+"关闭":"encerrar",
+"升降机":"erguer",
+"互动":"interagir",
+"需要":"necessitar",
+"补救":"remediar",
+"完成":"completar",
+"启迪":"iluminar",
+"首次亮相":"estrear",
+"找出来":"averiguar",
+"检查":"conferir",
+"渲染":"render",
+"战斗":"combater",
+"发布":"publicar",
+"狗屎":"cagar",
+"改善":"melhorar",
+"搜索":"pesquisar",
+"分发":"distribuir",
+"相处":"conviver",
+"上传":"carregar",
+"中间":"intermediar",
+"热身":"aquecer",
+"修复":"consertar",
+"生成":"gerar",
+"感觉不舒服":"enjoar",
+"消失":"desaparecer",
+"责任":"obrigar",
+"宣传":"divulgar",
+"支配":"dominar",
+"识别":"identificar",
+"填写":"preencher",
+"派对":"festejar",
+"失败":"falhar",
+"欺骗":"iludir",
+"通知":"notar",
+"做广告":"anunciar",
+"干":"secar",
+"米":"meter",
+"改变":"alterar",
+"组织":"organizar",
+"舔":"lamber",
+"收集":"recolher",
+"添加":"adicionar",
+"经历":"percorrer",
+"腾出":"desocupar",
+"强化":"fortalecer",
+"打扰":"perturbar",
+"摆脱":"livrar",
+"提供":"fornecer",
+"插入":"inserir",
+"效果":"efetuar",
+"火车":"treinar",
+"启发":"inspirar",
+"吠":"latir",
+"骑":"montar",
+"鱼":"pescar",
+"足够":"bastar"

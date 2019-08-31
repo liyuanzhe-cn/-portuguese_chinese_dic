@@ -1,0 +1,184 @@
+00: "ir"
+01: "ser"
+02: "fazer"
+03: "amar"
+04: "vir"
+05: "ver"
+06: "estar"
+07: "ter"
+08: "poder"
+09: "dar"
+10: "haver"
+11: "partir"
+12: "comer"
+13: "estudar"
+14: "cantar"
+15: "falar"
+16: "querer"
+17: "dizer"
+18: "trazer"
+19: "sair"
+20: "rir"
+21: "ler"
+22: "vender"
+23: "correr"
+24: "saber"
+25: "beber"
+26: "dormir"
+27: "sorrir"
+28: "escrever"
+29: "andar"
+30: "sentir"
+31: "agir"
+32: "ouvir"
+33: "pedir"
+34: "gostar"
+35: "brincar"
+36: "chegar"
+37: "corrigir"
+38: "ficar"
+39: "caber"
+40: "jogar"
+41: "abrir"
+42: "receber"
+43: "viver"
+44: "cair"
+45: "pensar"
+46: "manter"
+47: "conseguir"
+48: "comprar"
+49: "perder"
+50: "crer"
+51: "chamar"
+52: "aprender"
+53: "dividir"
+54: "viajar"
+55: "conhecer"
+56: "encontrar"
+57: "intervir"
+58: "pular"
+59: "expor"
+60: "voar"
+61: "nascer"
+62: "passear"
+63: "trabalhar"
+64: "subir"
+65: "lembrar"
+66: "levar"
+67: "dever"
+68: "passar"
+69: "voltar"
+70: "assistir"
+71: "precisar"
+72: "entender"
+73: "usar"
+74: "dirigir"
+75: "reaver"
+76: "seguir"
+77: "compor"
+78: "deixar"
+79: "fugir"
+80: "achar"
+81: "parar"
+82: "olhar"
+83: "proteger"
+84: "medir"
+85: "colocar"
+86: "acordar"
+87: "esquecer"
+88: "cumprir"
+89: "imprimir"
+90: "conversar"
+91: "fingir"
+92: "valer"
+93: "tossir"
+94: "morar"
+95: "mexer"
+96: "esperar"
+
+
+
+"走":"ir",
+"待":"estar",
+"做":"fazer",
+"爱":"amar",
+"来":"vir",
+"看":"olhar",
+"有":"haver",
+"力量":"poder",
+"给":"dar",
+"离开":"deixar",
+"吃":"comer",
+"学习":"aprender",
+"唱歌":"cantar",
+"说话":"conversar",
+"想要":"querer",
+"说":"dizer",
+"带来":"trazer",
+"笑":"rir",
+"读":"ler",
+"卖":"vender",
+"跑":"correr",
+"知道":"conhecer",
+"喝":"beber",
+"睡觉":"dormir",
+"微笑":"sorrir",
+"写":"escrever",
+"走路":"passear",
+"感觉":"sentir",
+"行为":"agir",
+"听":"ouvir",
+"问":"pedir",
+"喜欢":"gostar",
+"玩":"jogar",
+"到达":"chegar",
+"正确":"corrigir",
+"留下来":"ficar",
+"合适":"caber",
+"开放":"abrir",
+"收到":"receber",
+"活着":"morar",
+"跌倒":"cair",
+"思考":"pensar",
+"保持":"manter",
+"得到它":"conseguir",
+"买":"comprar",
+"输了":"perder",
+"相信":"crer",
+"打电话":"chamar",
+"分裂":"dividir",
+"旅行":"viajar",
+"找到":"achar",
+"介入":"intervir",
+"跳过":"pular",
+"暴露":"expor",
+"飞":"voar",
+"天生的":"nascer",
+"工作":"trabalhar",
+"上去":"subir",
+"记住":"lembrar",
+"拿":"levar",
+"必须":"dever",
+"通过":"passar",
+"回":"voltar",
+"需要":"precisar",
+"明白":"entender",
+"使用":"usar",
+"开车":"dirigir",
+"回来":"reaver",
+"跟随":"seguir",
+"撰写":"compor",
+"逃跑":"fugir",
+"停止":"parar",
+"保护":"proteger",
+"措施":"medir",
+"放":"colocar",
+"醒来":"acordar",
+"忘记":"esquecer",
+"履行":"cumprir",
+"打印":"imprimir",
+"假装":"fingir",
+"真实":"valer",
+"咳嗽":"tossir",
+"移动":"mexer",
+"等待":"esperar"
